@@ -20,7 +20,6 @@ This project is a simple e-commerce website UI inspired by Amazon. It was create
 
 ## Project Structure
 Amazon-Clone
-│
 ├── index.html
 ├── style.css
 ├── images/
